@@ -10,6 +10,6 @@ board
 
 Puts "Where would you like to go
 
-user_input_gets = gets
+user_input = gets
 
-input_to_index
+input_to_index(user_input)
