@@ -13,7 +13,7 @@ def input_to_index(user_input)
 end
 
 def move(board, poistion, char ="X")
-  display_board(board[0] = position
+  {board[0]} = position
   
   return
 end
