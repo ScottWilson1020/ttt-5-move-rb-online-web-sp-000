@@ -15,5 +15,5 @@ end
 def move(board, poistion, char ="X")
   
   
-  return
+
 end
